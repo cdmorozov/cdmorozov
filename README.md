@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="./assets/hero.svg" alt="Artem Morozov — Fullstack & AI Developer" width="100%" />
+  <img src="./assets/hero.svg" alt="Artem Morozov — Product Engineer" width="100%" />
 </p>
 
 <br />
@@ -8,11 +8,11 @@
 <!-- SECTION 1 — image left, text right -->
 <img src="./assets/fullstack.svg" alt="Fullstack development" align="left" width="370" />
 
-### Fullstack development
+### Product engineering
 
-I build whole products: the interface people use and the APIs and
-database that sit underneath it. The code is clean and type-safe, and
-the screens load fast and stay out of your way.
+You have a problem. I figure out what to build and ship it. One person
+handles the interface, the API, and the database, so you don't need to
+coordinate a team.
 
 **Frontend** · React · TypeScript · Next.js<br />
 **Backend** · Node.js · Python · PostgreSQL
@@ -25,10 +25,9 @@ the screens load fast and stay out of your way.
 
 ### AI-powered solutions
 
-I help businesses get more done with AI: chatbots, automation that
-clears out repetitive work, assistants, and Telegram bots that actually
-handle tasks. Everything fits the tools you already run, and the results
-are easy to measure.
+Most AI integrations are demos. I build things that run in production:
+chatbots that handle real customer questions, automations that kill
+repetitive work, assistants your team actually uses.
 
 **LLM apps** · Automation · Agents · Telegram bots
 
@@ -46,4 +45,4 @@ are easy to measure.
 
 </div>
 
-<p align="center"><sub>📩 Open to freelance. I build fullstack apps, websites, and AI tools for business.</sub></p>
+<p align="center"><sub>📩 Open to freelance. You describe the problem, I ship the product.</sub></p>
