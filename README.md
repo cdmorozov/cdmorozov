@@ -5,17 +5,49 @@
 
 <br />
 
-<!-- SECTION 1 — Fullstack -->
-<p align="center">
-  <img src="./assets/fullstack.svg" alt="Fullstack development" width="100%" />
-</p>
+<!-- SECTION 1 — image left, text right -->
+<table width="100%">
+  <tr>
+    <td width="42%" valign="middle">
+      <img src="./assets/fullstack.svg" alt="Fullstack development" width="100%" />
+    </td>
+    <td width="58%" valign="middle">
+      <h2>Fullstack development</h2>
+      <p>
+        I build whole products: the interface people use and the APIs and
+        database that sit underneath it. The code is clean and type-safe, and
+        the screens load fast and stay out of your way.
+      </p>
+      <p>
+        Frontend · React · TypeScript · Next.js<br />
+        Backend · Node.js · Python · PostgreSQL
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<!-- SECTION 2 — AI -->
-<p align="center">
-  <img src="./assets/ai.svg" alt="AI-powered solutions" width="100%" />
-</p>
+<!-- SECTION 2 — text left, image right -->
+<table width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <h2>AI-powered solutions</h2>
+      <p>
+        I help businesses get more done with AI: chatbots, automation that
+        clears out repetitive work, assistants, and Telegram bots that actually
+        handle tasks. Everything fits the tools you already run, and the results
+        are easy to measure.
+      </p>
+      <p>
+        LLM apps · Automation · Agents · Telegram bots
+      </p>
+    </td>
+    <td width="42%" valign="middle">
+      <img src="./assets/ai.svg" alt="AI-powered solutions" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
