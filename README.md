@@ -18,9 +18,6 @@ the screens load fast and stay out of your way.
 **Backend** · Node.js · Python · PostgreSQL
 
 <br clear="left" />
-
-<br />
-<hr />
 <br />
 
 <!-- SECTION 2 — text left, image right -->
@@ -36,9 +33,6 @@ are easy to measure.
 **LLM apps** · Automation · Agents · Telegram bots
 
 <br clear="right" />
-
-<br />
-<hr />
 <br />
 
 <!-- CONNECT -->
