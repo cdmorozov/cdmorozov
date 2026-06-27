@@ -6,7 +6,7 @@
 <br />
 
 <!-- SECTION 1 — image left, text right -->
-<img src="./assets/fullstack.svg" alt="Fullstack development" align="left" width="420" />
+<img src="./assets/fullstack.svg" alt="Fullstack development" align="left" width="370" />
 
 ### Fullstack development
 
@@ -21,7 +21,7 @@ the screens load fast and stay out of your way.
 <br />
 
 <!-- SECTION 2 — text left, image right -->
-<img src="./assets/ai.svg" alt="AI-powered solutions" align="right" width="420" />
+<img src="./assets/ai.svg" alt="AI-powered solutions" align="right" width="370" />
 
 ### AI-powered solutions
 
