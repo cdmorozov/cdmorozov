@@ -14,7 +14,6 @@
   </defs>
   <rect width="520" height="420" rx="16" fill="url(#bg3)"/>
   <rect width="520" height="420" rx="16" fill="url(#grid3)"/>
-  <rect x="0.5" y="0.5" width="519" height="419" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
 
   <ellipse cx="260" cy="200" rx="180" ry="160" fill="url(#core)"/>
 

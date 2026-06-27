@@ -10,7 +10,6 @@
   </defs>
   <rect width="520" height="420" rx="16" fill="url(#bg2)"/>
   <rect width="520" height="420" rx="16" fill="url(#grid2)"/>
-  <rect x="0.5" y="0.5" width="519" height="419" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
 
   <!-- isometric stacked layers -->
   <g stroke="#ffffff" stroke-width="1.6" stroke-linejoin="round" fill="none">
