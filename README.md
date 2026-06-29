@@ -41,7 +41,7 @@ repetitive work, assistants your team actually uses.
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artemmorozovm)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemmorozovnot@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=readdotcv&logoColor=black)](https://example.com/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=readdotcv&logoColor=black)](https://portfolio-landing-flax.vercel.app/)
 
 </div>
 
