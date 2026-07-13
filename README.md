@@ -25,10 +25,6 @@ coordinate a team.
 
 ### AI-powered solutions
 
-Most AI integrations are demos. I build things that run in production:
-chatbots that handle real customer questions, automations that kill
-repetitive work, assistants your team actually uses.
-
 **LLM apps** · Automation · Agents · Telegram bots
 
 <br clear="right" />
