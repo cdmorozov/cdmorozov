@@ -9,13 +9,7 @@
 <br />
 
 <!-- SECTION 1 — image left, text right -->
-<table>
-<tr>
-<td width="350" valign="middle">
-<img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif" alt="bonfire" width="350" />
-</td>
-<td width="30"></td>
-<td valign="middle">
+<img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif" alt="bonfire" align="left" width="350" hspace="20" vspace="10" />
 
 ### What I do
 
@@ -28,29 +22,17 @@ I also do LLM integrations and Telegram bots.
 **Frontend** · React · TypeScript · Next.js<br />
 **Backend** · Node.js · Python · PostgreSQL
 
-</td>
-</tr>
-</table>
-
+<br clear="left" />
 <br />
 
 <!-- SECTION 2 — text left, image right -->
-<table>
-<tr>
-<td valign="middle">
+<img src="https://media1.tenor.com/m/45RVHL5T-X8AAAAC/solaire-of-astora-dark-souls.gif" alt="praise the sun" align="right" width="330" hspace="20" vspace="10" />
 
 ### Projects
 
 **[tuboard.com](https://tuboard.com)** — my own product, from first commit to production.
 
-</td>
-<td width="30"></td>
-<td width="330" valign="middle">
-<img src="https://media1.tenor.com/m/45RVHL5T-X8AAAAC/solaire-of-astora-dark-souls.gif" alt="praise the sun" width="330" />
-</td>
-</tr>
-</table>
-
+<br clear="right" />
 <br />
 
 <!-- CONNECT -->
