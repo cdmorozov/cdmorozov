@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="./assets/lordran-skyline.gif" alt="Lordran skyline" width="640" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs4MjhsZGU1MDFoZDA4aTNjcjVhazJsOHZiZTI0czhta2lvbml3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.gif" alt="Dark Souls scene" width="640" />
 </p>
 
 <h1 align="center">Artem Morozov</h1>
@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="380" valign="top">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhieTZ2dGJxdm1qM2xlajdha3JobXBrMzV3YzQ4N3NkdzB0Ymc3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YleijU6Jfr0lzR708w/giphy.gif" alt="Dark Souls scene" width="360" />
+      <img src="./assets/lordran-skyline.gif" alt="Lordran skyline" width="360" />
     </td>
     <td valign="top">
       <h3>What I do</h3>
@@ -25,14 +25,19 @@
 
 <br />
 
-<!-- SECTION 2 — text left, image right -->
-<img src="./assets/resting-knight.gif" alt="resting knight" align="right" width="380" style="margin: 4px 0 16px 24px;" />
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Projects</h3>
+      <p><a href="https://tuboard.com"><strong>Tuboard</strong></a> — an online workspace for tutoring.</p>
+      <p>Real-time collaboration and a math-focused whiteboard for working through problems together.</p>
+    </td>
+    <td width="380" valign="top">
+      <img src="./assets/resting-knight.gif" alt="Resting knight" width="360" />
+    </td>
+  </tr>
+</table>
 
-### Projects
-
-**[tuboard.com](https://tuboard.com)** — my own product, from first commit to production.
-
-<br clear="right" />
 <br />
 
 <!-- CONNECT -->
