@@ -9,7 +9,7 @@
 <br />
 
 <!-- SECTION 1 — image left, text right -->
-<img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif" alt="bonfire" align="left" width="350" style="margin: 4px 24px 16px 0;" />
+<img src="./assets/lordran-skyline.gif" alt="Lordran skyline" align="left" width="380" style="margin: 4px 24px 16px 0;" />
 
 ### What I do
 
@@ -26,7 +26,7 @@ I also do LLM integrations and Telegram bots.
 <br />
 
 <!-- SECTION 2 — text left, image right -->
-<img src="https://media1.tenor.com/m/45RVHL5T-X8AAAAC/solaire-of-astora-dark-souls.gif" alt="praise the sun" align="right" width="330" style="margin: 4px 0 16px 24px;" />
+<img src="./assets/resting-knight.gif" alt="resting knight" align="right" width="380" style="margin: 4px 0 16px 24px;" />
 
 ### Projects
 
