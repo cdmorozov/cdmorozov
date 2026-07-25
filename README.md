@@ -10,9 +10,8 @@
 
 ### Product engineering
 
-You have a problem. I figure out what to build and ship it. One person
-handles the interface, the API, and the database, so you don't need to
-coordinate a team.
+I build full stack products end to end: interface, API, database.
+Currently learning by shipping real projects rather than following tutorials.
 
 **Frontend** · React · TypeScript · Next.js<br />
 **Backend** · Node.js · Python · PostgreSQL
@@ -24,6 +23,9 @@ coordinate a team.
 <img src="./assets/ai.svg" alt="AI-powered solutions" align="right" width="370" />
 
 ### AI-powered solutions
+
+I build LLM apps, automations, agents and Telegram bots, mostly around
+practical workflows people actually use.
 
 **LLM apps** · Automation · Agents · Telegram bots
 
