@@ -16,6 +16,11 @@ Currently learning by shipping real projects rather than following tutorials.
 **Frontend** · React · TypeScript · Next.js<br />
 **Backend** · Node.js · Python · PostgreSQL
 
+
+**Projects** · [Tuboard.com](https://tuboard.com)
+<br clear="left" />
+<br />
+
 <br clear="left" />
 <br />
 
