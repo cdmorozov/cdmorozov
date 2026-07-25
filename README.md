@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/n1sSN-qWZOAAAAAC/firelink-shrine-dark-souls-1.gif" alt="Firelink Shrine" width="640" />
+  <img src="./assets/firelink-shrine.gif" alt="Firelink Shrine" width="640" />
 </p>
 
 <h1 align="center">Artem Morozov</h1>
