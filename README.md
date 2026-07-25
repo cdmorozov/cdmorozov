@@ -1,51 +1,48 @@
 <!-- HERO -->
 <p align="center">
-  <img src="./assets/hero.svg" alt="Artem Morozov — Product Engineer" width="100%" />
+  <img src="https://media1.tenor.com/m/n1sSN-qWZOAAAAAC/firelink-shrine-dark-souls-1.gif" alt="Firelink Shrine" width="640" />
 </p>
+
+<h1 align="center">Artem Morozov</h1>
+<p align="center"><sub>Web developer</sub></p>
 
 <br />
 
 <!-- SECTION 1 — image left, text right -->
-<img src="./assets/fullstack.svg" alt="Fullstack development" align="left" width="370" />
+<img src="https://media1.tenor.com/m/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif" alt="bonfire" align="left" width="350" />
 
-### Product engineering
+### What I do
 
-I build full stack products end to end: interface, API, database.
-Currently learning by shipping real projects rather than following tutorials.
+I write web apps and take them all the way to production: interface, API,
+database, deploy. Most of my work is React and TypeScript on the front with
+Node or Python behind it.
+
+I also do LLM integrations and Telegram bots.
 
 **Frontend** · React · TypeScript · Next.js<br />
 **Backend** · Node.js · Python · PostgreSQL
-
-
-**Projects** · [Tuboard.com](https://tuboard.com)
-<br clear="left" />
-<br />
 
 <br clear="left" />
 <br />
 
 <!-- SECTION 2 — text left, image right -->
-<img src="./assets/ai.svg" alt="AI-powered solutions" align="right" width="370" />
+<img src="https://media1.tenor.com/m/45RVHL5T-X8AAAAC/solaire-of-astora-dark-souls.gif" alt="praise the sun" align="right" width="330" />
 
-### AI-powered solutions
+### Projects
 
-I build LLM apps, automations, agents and Telegram bots, mostly around
-practical workflows people actually use.
-
-**LLM apps** · Automation · Agents · Telegram bots
+**[tuboard.com](https://tuboard.com)** — my own product, from first commit to production.
 
 <br clear="right" />
 <br />
 
 <!-- CONNECT -->
-<h2 align="center">Let's connect</h2>
+<h2 align="center">Summon sign</h2>
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artemmorozovm)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemmorozovnot@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=readdotcv&logoColor=black)](https://portfolio-landing-flax.vercel.app/)
 
 </div>
 
-<p align="center"><sub>📩 Open to freelance. You describe the problem, I ship the product.</sub></p>
+<p align="center"><sub>Open to freelance</sub></p>
