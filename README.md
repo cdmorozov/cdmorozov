@@ -31,9 +31,10 @@
       <h3>Projects</h3>
       <p>
         <a href="https://artem-portfolio-iota.vercel.app">
-          <img src="https://img.shields.io/badge/Full%20portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" />
+          <img src="https://img.shields.io/badge/Full%20portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" />
         </a>
       </p>
+      <br />
       <p><a href="https://tuboard.com"><strong>Tuboard</strong></a> — an online workspace for tutoring. Real-time collaboration and a math-focused whiteboard for working through problems together.</p>
       <p><a href="https://t.me/epilandparkbot"><strong>Epiland</strong></a> — Telegram bot (<code>@epilandparkbot</code>) and admin panel for a kids' entertainment park. AI concierge, live booking, and a shared inbox for managers to take over the chat. 1st place at the Code the Future AI hackathon.</p>
       <p><a href="https://app.tovarify.com"><strong>Tovarify</strong></a> — Technical Director. AI-generated marketplace listings for Rozetka, Prom and OLX, with paying customers and backed by a Lytvyn Foundation grant.</p>
