@@ -8,44 +8,35 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="380" valign="top">
-      <img src="./assets/lordran-skyline.gif" alt="Lordran skyline" width="360" />
-    </td>
-    <td valign="top">
-      <h3>What I do</h3>
-      <p>I write web apps and take them all the way to production: interface, API, database, deploy. Most of my work is React and TypeScript on the front with Node or Python behind it.</p>
-      <p>I also do LLM integrations and Telegram bots.</p>
-      <p><strong>Frontend</strong> · React · TypeScript · Next.js<br />
-      <strong>Backend</strong> · Node.js · Python · PostgreSQL</p>
-    </td>
-  </tr>
-</table>
+<img src="./assets/lordran-skyline.gif" alt="Lordran skyline" align="left" width="360" style="margin: 4px 24px 16px 0;" />
 
+### What I do
+
+I write web apps and take them all the way to production: interface, API, database, deploy. Most of my work is React and TypeScript on the front with Node or Python behind it.
+
+I also do LLM integrations and Telegram bots.
+
+**Frontend** · React · TypeScript · Next.js<br />
+**Backend** · Node.js · Python · PostgreSQL
+
+<br clear="left" />
 <br />
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Projects</h3>
-      <p>
-        <a href="https://artem-portfolio-iota.vercel.app">
-          <img src="https://img.shields.io/badge/Full%20portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" />
-        </a>
-      </p>
-      <br />
-      <p><a href="https://tuboard.com"><strong>Tuboard</strong></a> — online workspace for tutoring with a collaborative math whiteboard.</p>
-      <p><a href="https://t.me/epilandparkbot"><strong>Epiland</strong></a> — AI concierge and booking bot for a kids' entertainment park. 1st place at Code the Future AI hackathon.</p>
-      <p><a href="https://app.tovarify.com"><strong>Tovarify</strong></a> — Technical Director. AI-powered marketplace listing generation with paying customers.</p>
-      <p><a href="https://yliia-landing.vercel.app"><strong>Yuliia landing</strong></a> — portfolio site for a photographer. Design and frontend.</p>
-    </td>
-    <td width="380" valign="top">
-      <img src="./assets/resting-knight.gif" alt="Resting knight" width="360" />
-    </td>
-  </tr>
-</table>
+<img src="./assets/resting-knight.gif" alt="Resting knight" align="right" width="360" style="margin: 4px 0 16px 24px;" />
 
+### Projects
+
+<a href="https://artem-portfolio-iota.vercel.app"><img src="https://img.shields.io/badge/Full%20portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" /></a>
+
+**[Tuboard](https://tuboard.com)** — online workspace for tutoring with a collaborative math whiteboard.
+
+**[Epiland](https://t.me/epilandparkbot)** — AI concierge and booking bot for a kids' entertainment park. 1st place at Code the Future AI hackathon.
+
+**[Tovarify](https://app.tovarify.com)** — Technical Director. AI-powered marketplace listing generation with paying customers.
+
+**[Yuliia landing](https://yliia-landing.vercel.app)** — portfolio site for a photographer. Design and frontend.
+
+<br clear="right" />
 <br />
 
 <!-- CONNECT -->
