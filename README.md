@@ -35,9 +35,6 @@
         </a>
       </p>
       <p><a href="https://tuboard.com"><strong>Tuboard</strong></a> online workspace for tutoring with a collaborative math whiteboard.</p>
-      <p><a href="https://t.me/epilandparkbot"><strong>Epiland</strong></a> AI concierge and booking bot for a kids' entertainment park. 1st place at Code the Future AI hackathon.</p>
-      <p><a href="https://app.tovarify.com"><strong>Tovarify</strong></a> Technical Director. AI-powered marketplace listing generation with paying customers.</p>
-      <p><a href="https://yliia-landing.vercel.app"><strong>Yuliia landing</strong></a> portfolio site for a photographer. Design and frontend.</p>
     </td>
     <td width="380" valign="top" style="border: none; padding: 0;">
       <img src="./assets/resting-knight.gif" alt="Resting knight" width="360" />
