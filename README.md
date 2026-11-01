@@ -17,7 +17,7 @@
   </tr>
 
 <!-- CONNECT -->
-<h2 align="center">Summon sign</h2>
+<h2 align="center">Contact me</h2>
 
 <div align="center">
 
