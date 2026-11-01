@@ -1,7 +1,4 @@
 <!-- HERO -->
-<h1 align="center">Artem Morozov</h1>
-<p align="center"><sub>Web developer</sub></p>
-
 <br />
 
   <tr>
