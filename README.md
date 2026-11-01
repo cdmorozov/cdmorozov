@@ -1,7 +1,5 @@
 <!-- HERO -->
-<br />
-
-  <tr>
+<tr>
     <td valign="top" style="border: none; padding: 0 0 0 24px;">
       <h3>What I do</h3>
       <p>I write web apps and take them all the way to production: interface, API, database, deploy.</p>
@@ -10,9 +8,6 @@
       <strong>Backend</strong> · Node.js · Python · PostgreSQL</p>
     </td>
   </tr>
-
-<br />
-
   <tr>
     <td valign="top" style="border: none; padding: 0 24px 0 0;">
       <h3>Projects</h3>
