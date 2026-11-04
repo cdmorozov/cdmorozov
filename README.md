@@ -12,6 +12,7 @@
     <td valign="top" style="border: none; padding: 0 24px 0 0;">
       <h3>Projects</h3>
       <p><a href="https://tuboard.com"><strong>Tuboard</strong></a> online workspace for tutoring with a collaborative math whiteboard.</p>
+      <p><a href="https://sitejar.app/badge/ac0819ac3047c590e696b04fafbb7c939fd9c78396c2c093" target="_blank" rel="noopener"><img src="https://sitejar.app/v1/badge/ac0819ac3047c590e696b04fafbb7c939fd9c78396c2c093.svg" alt="Reviewed by Sitejar - SURE review badge" width="200" height="78" /></a></p>
       <p><a href="https://tovarify.com"><strong>Tovarify</strong></a> generate infographics and studio photos for your ecom products.</p>
     </td>
   </tr>
